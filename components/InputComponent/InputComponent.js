@@ -1,6 +1,6 @@
 import React from 'react'
 import { TextInput } from 'react-native';
-import TextComponent from '../TextComponent';
+import TextComponent from '../TextComponent/TextComponent';
 import Colors from '../../constants/Colors';
 import Styles from '../../constants/Styles';
 

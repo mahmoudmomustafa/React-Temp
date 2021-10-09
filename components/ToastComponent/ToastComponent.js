@@ -1,7 +1,7 @@
 import React from 'react'
 import { StyleSheet, View } from 'react-native';
 import { useSelector } from 'react-redux';
-import TextComponent from '../TextComponent';
+import TextComponent from '../TextComponent/TextComponent';
 import Styles from '../../constants/Styles';
 import Colors from '../../constants/Colors';
 

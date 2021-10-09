@@ -1,8 +1,8 @@
 import React from 'react'
 import { TouchableOpacity, ActivityIndicator } from 'react-native';
-import TextComponent from '../TextComponent';
 import Colors from '../../constants/Colors';
 import Styles from '../../constants/Styles';
+import TextComponent from '../TextComponent/TextComponent';
 
 const ButtonComponent = (props) => {
    const btnBgColor = props.filled ? Colors.tint : 'transparent'
